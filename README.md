@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋, I'm Arafat Hosen</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vl-Arafat&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <h3 align="center">
 Software Engineering Student at Islamic University of Technology (IUT-OIC)
 </h3>
