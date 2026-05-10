@@ -71,7 +71,6 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 </p>
 
 ---
-
 ## 🛠 Languages and Tools
 
 ### 👨‍💻 Programming Languages
@@ -79,9 +78,14 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart" />
 </p>
 
-### 📱 App Development
+### 📱 Mobile App Development
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
+</p>
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
 
 ### 🗄 Database
@@ -89,12 +93,30 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### 💻 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" />
+### 🌐 Networking & Simulation Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Cisco_logo_blue_2016.svg" width="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Proteus_Design_Suite_Logo.png" width="120"/>
+</p>
+<p align="center">
+  Cisco Packet Tracer • Proteus
 </p>
 
-### 🧰 IDEs & Tools
+### 🏗 Design / Engineering Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/AutoCAD_Logo.svg" width="120"/>
+</p>
+<p align="center">
+  AutoCAD
+</p>
+
+### 💻 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+</p>
+
+### 🧰 Tools & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
 </p>
