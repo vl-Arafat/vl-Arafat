@@ -87,7 +87,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 ### 💻 Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple" />
 </p>
 
 ### 🧰 IDEs & Tools
