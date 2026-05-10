@@ -104,15 +104,17 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 ### 🌐 Networking & Simulation Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="70"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Proteus_Design_Suite_Logo.png" width="90"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
 ---
 
 ### 🏗 Design Tools
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="70"/>
+  <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
 
 ---
