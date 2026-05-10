@@ -1,7 +1,7 @@
 <h1 align="center">Arafat Hosen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Flutter+Enthusiast;AI%2FML+Enthusiast;Passionate+About+Building+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Mobile+App+Developer;ML+Engineer" />
 </p>
 
 <p align="center">
