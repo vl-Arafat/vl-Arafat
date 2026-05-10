@@ -105,7 +105,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="70"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="70"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Proteus_Design_Suite_Logo.png" width="90"/>
 </p>
 
 ---
