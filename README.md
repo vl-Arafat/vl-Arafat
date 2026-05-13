@@ -132,6 +132,8 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 </p>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="70"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
 </p>
 
