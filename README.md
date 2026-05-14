@@ -96,7 +96,11 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 ### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70"/>
 </p>
 
 ---
