@@ -41,7 +41,6 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vl-Arafat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
