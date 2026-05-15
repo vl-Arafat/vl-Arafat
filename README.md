@@ -72,7 +72,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 ### 👨‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,ts,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,dart,js,ts,r" />
 </p>
 
 ---
