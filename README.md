@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=vl-Arafat&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Highlights-Pro-4CAF50?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Highlights-Noob-4CAF50?style=for-the-badge&logo=star" />
 </p>
 
 <h3 align="center">
