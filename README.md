@@ -75,21 +75,15 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,dart,js,ts,r" />
 </p>
 
----
-
 ### 📱 Mobile App Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
 </p>
 
----
-
 ### 🤖 AI / ML
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
-
----
 
 ### 🗄 Database
 <p align="center">
@@ -111,14 +105,10 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
----
-
 ### 🏗 Design Tools
 <p align="center">
   <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
-
----
 
 ### 💻 Operating Systems
 <p align="center">
