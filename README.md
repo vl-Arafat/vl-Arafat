@@ -80,9 +80,12 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Data Apps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+<p align="center">
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="140"/>
 </p>
 
 ### 🗄 Database
