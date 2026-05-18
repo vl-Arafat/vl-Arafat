@@ -38,36 +38,6 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 - 🌱 Currently improving development and problem-solving skills
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vl-Arafat&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vl-Arafat&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vl-Arafat&theme=tokyo-night" />
-</p>
-
----
 ## 🛠 Languages and Tools
 
 ### 👨‍💻 Programming Languages
@@ -126,6 +96,37 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="70"/>
+</p>
+
+---
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vl-Arafat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vl-Arafat&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vl-Arafat&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vl-Arafat&theme=tokyo-night" />
 </p>
 
 ---
