@@ -125,8 +125,6 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
   <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
 </p>
 
----
-
 ### 🧰 Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,unity,git,github" />
