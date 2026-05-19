@@ -38,44 +38,10 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 - 🌱 Currently improving development and problem-solving skills
 
 ---
-## 🛠 Languages and Tools
+## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,dart,js,ts,r" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-<p align="center">
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="140"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70"/>
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="70"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=probot&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,unity,git,github" />
-</p>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="70"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,ts,r,flutter,tensorflow,pytorch,firebase,mysql,postgresql,vscode,idea,eclipse,pycharm,git,github,unity,androidstudio,linux,windows,apple,jupyter" />
 </p>
 
 ---
