@@ -131,9 +131,10 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 ---
 
+## ⚡Github Contribution
 <img src="https://raw.githubusercontent.com/vl-Arafat/vl-Arafat/output/snake.svg" alt="Snake animation" />
 
-
+---
 
 ## 🌐 Connect With Me
 
