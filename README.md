@@ -40,59 +40,39 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 ---
 ## 🛠 Languages and Tools
 
-### 👨‍💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,dart,js,ts,r" />
 </p>
-
-### 📱 Mobile App Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
 </p>
-
-### 🤖 AI / ML & Data Apps
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 <p align="center">
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="140"/>
 </p>
-
-### 🗄 Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="70"/>
 </p>
-
----
-
-### 🌐 Networking & Simulation Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="70"/>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
-
-### 🏗 Design Tools
 <p align="center">
   <img src="https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white"/>
 </p>
-
-### 💻 Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,apple" />
 </p>
-
-### 🧰 Tools & Version Control
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,pycharm,unity,git,github" />
 </p>
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="70"/>
