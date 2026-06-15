@@ -16,7 +16,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 </h3>
 
 <p align="center">
-🤖 AI/ML Enthusiast • 📱 Flutter Enthusiast • 💻 Passionate about building impactful software
+🤖 AI/ML Enthusiast • 📱 Flutter & Kotlin Enthusiast • 💻 Passionate about building impactful software
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 
 - 🎓 Software Engineering student at IUT-OIC
 - 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📱 Flutter developer focused on Android apps
+- 📱 Flutter & Kotlin (Android) developer focused on building mobile apps
 - 💻 Passionate about creating impactful software
 - 🌱 Currently improving development and problem-solving skills
 
@@ -41,7 +41,7 @@ Software Engineering Student at Islamic University of Technology (IUT-OIC)
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,dart,js,ts,r,flutter,tensorflow,pytorch,firebase,mysql,postgresql,vscode,idea,eclipse,pycharm,git,github,unity,androidstudio,linux,windows,apple,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,c,dart,js,ts,r,flutter,tensorflow,pytorch,firebase,mysql,postgresql,vscode,idea,eclipse,pycharm,git,github,unity,androidstudio,linux,windows,apple,jupyter" />
 </p>
 
 ---
